@@ -65,16 +65,6 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
-
-Add your deployed link here:
-
-```txt
-https://your-app.vercel.app
-```
-
----
-
 ## 📁 Project Structure
 
 ```bash
