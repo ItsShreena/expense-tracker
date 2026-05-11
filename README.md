@@ -31,12 +31,6 @@ Track your income, expenses, savings, and financial activity with interactive ch
 
 ---
 
-## 📸 Preview
-
-<img width="100%" alt="Expense Tracker Preview" src="https://via.placeholder.com/1200x600.png?text=Expense+Tracker+Dashboard" />
-
----
-
 ## 📦 Installation
 
 Clone the repository:
