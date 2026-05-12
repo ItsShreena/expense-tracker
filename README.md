@@ -1,5 +1,4 @@
 # Expense Tracker Dashboard 💸
-
 A modern and responsive Expense Tracker Dashboard built using React + Vite.
 
 Track your income, expenses, savings, and financial activity with interactive charts, analytics, and a premium UI.
@@ -85,7 +84,6 @@ expense-tracker/
 ---
 
 ## ✨ Future Improvements
-
 - Dark / Light mode
 - Export to PDF
 - Monthly analytics
@@ -94,9 +92,7 @@ expense-tracker/
 - Backend integration
 
 ---
-
 ## 👨‍💻 Author
-
 Developed by Shreena
 
 (This project was made for learning purpose (in 3rd semester but i didnt put on github before no idea why i did it)to understand react and vite so that i can have a hands-on practice on this technology)
