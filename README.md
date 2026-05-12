@@ -100,9 +100,7 @@ expense-tracker/
 Developed by Shreena
 
 (This project was made for learning purpose (in 3rd semester but i didnt put on github before no idea why i did it)to understand react and vite so that i can have a hands-on practice on this technology)
-
 ---
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
