@@ -22,11 +22,7 @@ Track your income, expenses, savings, and financial activity with interactive ch
 
 ## 🛠️ Tech Stack
 
-- React
-- Vite
-- CSS3
-- Recharts
-- LocalStorage API
+
 
 ---
 
